@@ -1,4 +1,4 @@
-# SWEMLS: Coursework 3: Implementing inference
+# Software Engineering for ML Systems: Coursework
 
 ### Modelling
 
